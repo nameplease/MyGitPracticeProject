@@ -9,7 +9,7 @@ public class Test {
 	public static void main(String[] args) {
 		Date sysdate = Utility.getSysDate();
 		
-		System.out.println("System Is sysdate >>>"+sysdate);
+		System.out.println("System Is  >>>"+sysdate);
 
 	}
 
